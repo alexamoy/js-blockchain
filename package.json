@@ -1,0 +1,11 @@
+{
+  "name": "js-blockchain",
+  "version": "1.0.0",
+  "description": "creating basic blockchain",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexa Moy",
+  "license": "ISC"
+}
